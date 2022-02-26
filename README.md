@@ -1,3 +1,11 @@
+"A Site Reliability Engineer by profession..
+... a technology generalist..
+... knowledge seeker ...
+by nature"
+<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<a href="mailto:parthivrmenon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/parthivrmenon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://medium.com/@parthivrmenon"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
 ### The Site Reliability Engineer's Oath :pencil2:
 
@@ -15,4 +23,7 @@ I Promise that, to the best of my ability and judgement...
 - I will always have a healthy dose of symapthy for on-calls. I will ensure that alerts are actionable and on-call fatigue is low.
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthivrmenon&layout=compact)](https://github.com/parthivrmenon)
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=parthivrmenon)](https://github.com/parthivrmenon)
 
